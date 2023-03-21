@@ -64,7 +64,8 @@ Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa s
 -   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários,
     etc);
     O nome da empresa é RaíGatao, nosso objetivo é incentivar e divulgar o esporte, por meio de materiais que disponibilizamos para empréstimo para atletas carentes, existe a possibilidade de empréstimo para pessoas com boa renda fianceira, porém, é cobrado um valor variando de cada item, diferente dos atletas carentes que não precisam pagar. Estamos abertos a mais de 5 anos, o idealizador do projeto e criador da RaíGatão foi Valdevino Padilha, conta atualmente com 3 funcionários. Um responsável pelo controle do estoque, um pela limpeza e conservação dos itens, outro recepciona os atletas, entrega os itens aos clientes.
-    Cadastro: para o atleta conseguir ter acesso aos materiais disponíveis ele deve fazer um cadastro, onde precisa apresentar Nome completo, CPF, RG, número de telefone, endereço, comprovante de residência, 
+    Cadastro: para o atleta conseguir ter acesso aos materiais disponíveis ele deve fazer um cadastro, onde precisa apresentar Nome completo, CPF, RG, número de telefone, endereço, comprovante de residência, informe de rendimento.
+    Empréstimos
 -   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma
     ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa
     diferente que for explicar (como faria em uma redação);
