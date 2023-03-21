@@ -27,30 +27,12 @@ Links do projeto:
 
 **Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
 
-## 1- Ponto de Vendas (PDV)
-
-**Gerenciamento de vendas para uma padaria**
-
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
-
 ## 2- Empréstimo
 
 **Gerenciamento de uma biblioteca**
 
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
 
-## 3- Ordem de Serviço (O.S.)
-
-**Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio, onde ele é responsável pelos consertos e sua esposa Marília realiza os atendimentos aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie
-sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante que ele consiga ter relatórios que lhe ajudem na gestão da
-empresa, como dos status dos serviços.
+Uma Quadra de Esportes, chamada RAÍGatão, ajuda atletas que não possuem dinheiro para empréstimos de materiais para praticar esportes. Atualmente, comprou mais de 1000 itens para esporte, desde bolas, joelheiras, calçados, obstáculos entre outros. Eles querem emprestar os materiais para os atletas, os atletas precisam comprovar situação de carência econômica para poderem ter acesso aos itens. Apenas possuem um computador e o estoque necessário para armazenar os itens. Eles precisam de um sistema que gerencie todo o estoque, empréstimos, materiais disponíveis, etc. mas para que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos materiais disponíveis no acervo.
 
 # Situação Problema
 
@@ -81,6 +63,8 @@ Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa s
 
 -   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários,
     etc);
+    O nome da empresa é RaíGatao, nosso objetivo é incentivar e divulgar o esporte, por meio de materiais que disponibilizamos para empréstimo para atletas carentes, existe a possibilidade de empréstimo para pessoas com boa renda fianceira, porém, é cobrado um valor variando de cada item, diferente dos atletas carentes que não precisam pagar. Estamos abertos a mais de 5 anos, o idealizador do projeto e criador da RaíGatão foi Valdevino Padilha, conta atualmente com 3 funcionários. Um responsável pelo controle do estoque, um pela limpeza e conservação dos itens, outro recepciona os atletas, entrega os itens aos clientes.
+    Cadastro: para o atleta conseguir ter acesso aos materiais disponíveis ele deve fazer um cadastro, onde precisa apresentar Nome completo, CPF, RG, número de telefone, endereço, comprovante de residência, 
 -   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma
     ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa
     diferente que for explicar (como faria em uma redação);
