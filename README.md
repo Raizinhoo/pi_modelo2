@@ -4,78 +4,36 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 
 Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](https://github.com/AlannKPerini).
 
-Links do projeto:
+Aluno: Raí
 
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
--   [Backend](github.com/marcoandre/pi-backend)
--   [Frontend](github.com/marcoandre/pi-frontend)
-
-# Como usar esse modelo para o Projeto Integrador
-
-1. Faça um fork desse repositório para a sua conta do GitHub.
-2. Clone o repositório para o seu computador.
-3. Abra o arquivo README.md no seu editor de texto favorito (recomendamos o [Visual Studio Code](https://code.visualstudio.com/)).
-4. Tenha instalada a extensão [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) no seu editor de texto.
-5. Edite o arquivo README.md com as informações do seu projeto.
-
-# Desenvolvimento
-
--   As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
--   Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
-
-# Modelos de Sistemas
-
-**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
-
-## 2- Empréstimo
-
-**Gerenciamento de uma biblioteca**
-
-
-Uma Quadra de Esportes, chamada RAÍGatão, ajuda atletas que não possuem dinheiro para empréstimos de materiais para praticar esportes. Atualmente, comprou mais de 1000 itens para esporte, desde bolas, joelheiras, calçados, obstáculos entre outros. Eles querem emprestar os materiais para os atletas, os atletas precisam comprovar situação de carência econômica para poderem ter acesso aos itens. Apenas possuem um computador e o estoque necessário para armazenar os itens. Eles precisam de um sistema que gerencie todo o estoque, empréstimos, materiais disponíveis, etc. mas para que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos materiais disponíveis no acervo.
-
+# Modelos de Sistemas: Empréstimo
 # Situação Problema
+**Gerenciamento de uma Quadra de Esportes**
 
-**Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.**
+Uma empresa de empréstimos de materiais esportivos, chamada RAÍGatão, ajuda atletas que não possuem dinheiro para empréstimos de materiais para praticar esportes. Atualmente, comprou mais de 1000 itens para esporte, desde bolas, joelheiras, calçados, obstáculos entre outros. Eles querem emprestar os materiais para os atletas, os atletas precisam comprovar situação de carência econômica para poderem ter acesso aos itens. Possuem um computador para arquivar os itens de estoque. Precisam de um sistema que gerencie todo o estoque, empréstimos, materiais disponíveis, etc. mas para que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos materiais disponíveis no acervo.
 
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
-
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
-
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
-
--   Pesquise sobre empresas do ramo escolhido
-    para entender como funcionam;
--   Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
--   Simule uma situação real. Lembre-se que são
-    propostas com empresas fictícias, sendo assim,
-    você terá que tomar certas decisões sobre como
-    a empresa funciona em relação às coisas que
-    não estão definidas no documento base (por
-    exemplo, no caso da padaria, dizemos que seu
-    Genival contratou mais funcionários, mas saber
-    quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a
-    empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
-
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
-
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários,
-    etc);
-    O nome da empresa é RaíGatao, nosso objetivo é incentivar e divulgar o esporte, por meio de materiais que disponibilizamos para empréstimo para atletas carentes, existe a possibilidade de empréstimo para pessoas com boa renda fianceira, porém, é cobrado um valor variando de cada item, diferente dos atletas carentes que não precisam pagar. Estamos abertos a mais de 5 anos, o idealizador do projeto e criador da RaíGatão foi Valdevino Padilha, conta atualmente com 3 funcionários. Um responsável pelo controle do estoque, um pela limpeza e conservação dos itens, outro recepciona os atletas, entrega os itens aos clientes.
-    Cadastro: para o atleta conseguir ter acesso aos materiais disponíveis ele deve fazer um cadastro, onde precisa apresentar Nome completo, CPF, RG, número de telefone, endereço, comprovante de residência, informe de rendimento.
-    Empréstimos
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma
-    ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa
-    diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia
-    ajudar a resolvê-los.
+O nome da empresa é RaíGatao, nosso objetivo é incentivar e divulgar o esporte, por meio de materiais que disponibilizamos para empréstimo para atletas carentes, existe a possibilidade de empréstimo para pessoas com boa renda fianceira, porém, é cobrado um valor variando de cada item, diferente dos atletas carentes que não precisam pagar. Estamos abertos a mais de 5 anos, o idealizador do projeto e criador da RaíGatão foi Valdevino Padilha, conta atualmente com 3 funcionários. Um responsável pelo controle do estoque, um pela limpeza e conservação dos itens, outro recepciona os atletas e entrega os itens aos clientes. A empresa funciona atualmente apenas com meios manuscritos para controle de empréstimos através de caderno, algo que se torna muito confuso, trabalhoso e falta de organização.
+    
+Com a chegada de novos itens a demanda aumentou, a empresa quer tornar o sistema de empréstimos *inteiramente* digital, fazendo com que apenas a retirada dos itens seja na locação física. 
+    
+A empresa precisa de um sistema que seja capaz de cadastrar usuários, controlar o estoque de itens, cobrança, isenção de taxa para pessoas baixa-renda, prazo e taxas adicionais para atrasos
 
 # Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do
-desejado e permita sua continuidade.
+Analisando o funcionamento da empresa e os problemas destacados, chegamos a uma solução possível. 
+
+Criaremos um site onde o usuário-cliente irá efetuar um cadastro e assim terá acesso aos itens para locação, podendp atráves de poucos cliques marcar a data de retirada e devolção do item.
+
+O usuário-administrador terá acesso completo ao estoque e ficha completa de quem está com o item emprestado
+
+Todos funcionários terão uma conta usuário-administrador
+
+cadastro de mercadorias .... clientes.... (quem faz ??)
+controle do estoque (quem faz no sistema)
+quem vai emprestar??? Recepcionista (o que ele faz no sistema)
+Administrador (o q ele faz??)
+
+
 
 **Alguns pontos importantes a se destacar são:**
 
