@@ -4,7 +4,7 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 
 Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](https://github.com/AlannKPerini).
 
-Aluno: Raí
+Aluno: Raí Vericimo Gaudereto
 
 # Modelos de Sistemas: Empréstimo
 # Situação Problema
@@ -22,16 +22,15 @@ A empresa precisa de um sistema que seja capaz de cadastrar usuários, controlar
 
 Analisando o funcionamento da empresa e os problemas destacados, chegamos a uma solução possível. 
 
-Criaremos um site onde o usuário-cliente irá efetuar um cadastro e assim terá acesso aos itens para locação, podendp atráves de poucos cliques marcar a data de retirada e devolção do item.
+Criaremos um site onde o usuário-cliente irá efetuar um cadastro, feito pelo recepcinista presencialmente e assim terá acesso aos itens para locação, podendo atráves de poucos cliques marcar a data de retirada e devolção do item.
 
-O usuário-administrador terá acesso completo ao estoque e ficha completa de quem está com o item emprestado
+irão existir 3 níveis de conta: conta-cliente, funcionário e administrador
 
-Todos funcionários terão uma conta usuário-administrador
+O usuario-recepcionista irá cadastrar as novas contas dos clientes, será o responsável por checar se o item realmente foi alugado antes da retirada física (conta de funcionário)
 
-cadastro de mercadorias .... clientes.... (quem faz ??)
-controle do estoque (quem faz no sistema)
-quem vai emprestar??? Recepcionista (o que ele faz no sistema)
-Administrador (o q ele faz??)
+o usuario-estoquista irá fazer o cadastro de novos itens e retirar os itens que não estão mais em condições de uso (conta de funcionário)
+
+O usuario-administrador terá acesso a todos os relatórios de empréstimos, itens novos cadastrados e excluídos do sistema, ao lucro e gastos mensais da empresa e a todos os benefícios das contas anteriores
 
 
 
