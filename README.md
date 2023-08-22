@@ -32,6 +32,46 @@ o usuario-estoquista irá fazer o cadastro de novos itens e retirar os itens que
 
 O usuario-administrador terá acesso a todos os relatórios de empréstimos, itens novos cadastrados e excluídos do sistema, ao lucro e gastos mensais da empresa e a todos os benefícios das contas anteriores
 
+Regras De Negócio;
+
+R.F. 01 - Cadastro de Usuários:
+Permitir que o recepcionista cadastre novos usuários no sistema, classificando-os como cliente, funcionário ou administrador.
+
+R.F. 02 - Itens Disponíveis para Empréstimo:
+Possibilitar o cadastramento de itens esportivos disponíveis para empréstimo, como bolas, joelheiras, calçados, obstáculos, etc.
+
+R.F. 03 - Cobrança e Isenção de Taxas:
+Gerenciar a cobrança de taxas para empréstimo de itens esportivos, incluindo isenção de taxas para atletas carentes e cálculo de taxas variáveis para pessoas com boa renda financeira.
+
+R.F. 04 - Empréstimos e Devoluções:
+Permitir que usuários-clientes solicitem empréstimos de itens esportivos através do site, definindo datas de retirada e devolução. Registrar empréstimos e devoluções no sistema.
+
+R.F. 05 - Controle de Estoque:
+Possibilitar ao usuário-estoquista cadastrar novos itens no sistema e marcar itens que não estão mais em condições de uso. Manter um registro atualizado do estoque disponível.
+
+R.F. 06 - Níveis de Acesso:
+Implementar três níveis de acesso: cliente, funcionário e administrador. Cada nível terá diferentes permissões e funcionalidades.
+
+R.F. 07 - Relatórios e Controle Financeiro:
+Fornecer ao administrador a capacidade de acessar relatórios detalhados, incluindo informações sobre empréstimos, itens cadastrados e excluídos, lucros e gastos mensais.
+
+R.F. 08 - Atendimento ao Cliente:
+Oferecer meios para que os usuários possam entrar em contato com a empresa, fazer perguntas ou relatar problemas relacionados aos empréstimos e aos itens.
+
+R.F. 09 - Interface Amigável:
+Desenvolver uma interface de usuário intuitiva e de fácil navegação, acessível a partir de diferentes dispositivos, garantindo a usabilidade para todos os níveis de usuários.
+
+R.F. 10 - Segurança e Privacidade:
+Implementar medidas de segurança para proteger os dados pessoais dos usuários, incluindo o armazenamento seguro de senhas.
+
+R.F. 11 - Integração Física e Digital:
+Integrar o sistema digital ao processo físico de retirada dos itens na locação, garantindo uma experiência fluida para os usuários.
+
+R.F. 12 - Acesso por Funcionários:
+Permitir que funcionários acessem o sistema com suas credenciais para realizar funções específicas, como cadastrar clientes, verificar itens, etc.
+
+R.F. 13 - Registro de Atividades:
+Registrar todas as atividades realizadas no sistema, criando um registro para fins de auditoria e rastreamento das ações realizadas.
 
 
 **Alguns pontos importantes a se destacar são:**
